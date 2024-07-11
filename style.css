@@ -1,0 +1,12 @@
+.custom-font h3{font-size:px;}
+.product1 h4{font-size:24px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;text-align: center;}
+.contact-section{background-color:black; background-size: 100%; background-repeat: no-repeat;}
+.header-section .navbar-brand img{
+    width:200px;
+}
+.contact-section h3{
+    text-decoration:underline;
+}
+footer img{
+    max-width: 50px;
+}
